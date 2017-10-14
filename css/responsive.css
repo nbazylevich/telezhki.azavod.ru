@@ -1,0 +1,507 @@
+@media (max-width:1199px){
+.menu_jk {
+  margin-top: 10px;
+}
+.callBack {
+  max-width: 100%;
+  padding: 10px 5px;
+  font-size: 12px;
+}
+.menu_jk li {
+  font: 13px Roboto_Bold;
+  margin-right: 18px;
+}
+.block_1 {
+  margin-top: 50px;
+}
+.h1 {
+  font: 36px Roboto_Bold;
+}
+.medium_30 {
+  font: 26px Roboto_Medium;
+}
+.form_block_1 .submit_price {
+  width: 100%;
+}
+.regular_fff {
+  font-size: 22px;
+  margin-right: 10px;
+}
+.form_block_2 .input_sledit {
+  width: 180px;
+  margin-right: 10px;
+}
+.form_block_2 .submit_var2 {
+  width: 180px;
+}
+.form_block_2 {
+  text-align: center;
+}
+.block_3 {
+  background-size: 55%;
+}
+.block_5 {
+  padding: 50px 0;
+}
+.block_5 img {
+  margin: 0 auto 25px;
+}
+.block_6 {
+  padding: 40px 0 0;
+}
+.proektirovanie {
+  height: 400px;
+  padding: 40px 35px 0 0;
+}
+.oneSlide {
+  height: 400px;
+  padding: 70px 0 0 35px;
+}
+.proektirovanie_proizvodstvo {
+  height: 400px;
+}
+.slider_proizvodstvo .owl-nav {
+  left: 35px;
+  bottom: 20px;
+  }
+.proizvodstvo {
+  height: 400px;
+}
+.block_8 {
+  padding: 40px 0;
+}
+.h2 {
+  font: 30px Roboto_Bold;
+}
+.one_ysl p {
+  font: 15px Roboto_Regular;
+}
+.one_ysl {
+  margin-bottom: 20px;
+}
+.block_9 {
+  padding: 40px 0 25px;
+}
+.plus_two li {
+  margin-bottom: 15px;
+}
+.block_10 {
+  padding-top: 40px;
+}
+.samo {
+  margin: 30px 0 15px;
+}
+.block_11 {
+  padding: 40px 0 15px;
+}
+.block_11 .h2 {
+  margin-bottom: 40px;
+}
+.wid69 p:first-child {
+  font: 19px Roboto_Medium;
+}
+.block_12 {
+  padding: 40px 0 20px;
+}
+.oneSert img {
+  max-width: 90%;
+}
+.block_13 {
+  padding: 40px 0;
+}
+.block_14 {
+  padding: 50px 0 80px 0;
+}
+.bg_fff {
+  margin-left: -485px;
+  padding: 30px 10px;
+}
+.disp_inl {
+  margin-right: 10px;
+}
+}
+
+@media (max-width:991px){
+.callBack {
+  padding: 9px 0px;
+  width: 100%;
+}
+.menu_jk {
+  margin-top: 0;
+}
+.h1 {
+  font: 30px Roboto_Bold;
+  line-height: 1;
+}
+.medium_30 {
+  font: 22px Roboto_Medium;
+  margin-bottom: 30px;
+}
+.form_block_1 {
+  padding: 30px 10px;
+}
+.submit_price {
+  font: 13px Roboto_Bold;
+}
+header {
+  padding: 25px 0 40px;
+}
+.regular_fff {
+  display: block;
+  margin-bottom: 15px;
+}
+.block_2 {
+  padding: 15px 0;
+}
+.abs {
+  position: initial;
+  margin: 20px auto;
+}
+.block_3 {
+  height: initial;
+  padding: 40px 0 20px;
+  background-image: none;
+}
+.block_3 .h2 {
+  margin-bottom: 30px;
+}
+.block_4 {
+  padding: 40px 0;
+}
+.proektirovanie_proizvodstvo .h2 {
+  left: 40px;
+  font-size: 26px;
+}
+.block_4 .nav-tabs>li>a {
+  padding: 10px 15px;
+}
+.block_4 .nav>li.active>a::before {
+  top: 14px;
+}
+.block_4 .nav-tabs {
+  margin-top: 40px;
+}
+.block_4 .nav-tabs {
+  margin-top: 40px;
+}
+.nameProduct {
+  font: 20px Roboto_Medium;
+  margin-bottom: 20px;
+}
+.bord_bott span {
+  font: 14px Roboto_Medium;
+}
+.bord_bott {
+  margin-bottom: 10px;
+}
+.block_5 {
+  padding: 30px 0;
+}
+.block_5 p {
+  margin: 20px auto 0;
+}
+.block_6 img {
+  max-width: 100%;
+}
+.block_6 p {
+  margin: 15px auto 30px;
+}
+.bord_left .one_ysl:last-child span {
+  box-shadow: 0 5px 0px 1px #fff;
+}
+.form_block_8 {
+  padding: 25px 20px;
+  width: 100%;
+}
+.form_block_9 {
+  padding: 50px 20px 25px;
+  width: 100%;
+}
+.plus_two li {
+  font: 18px Roboto_Regular;
+  margin-bottom: 10px;
+}
+.one_otz a img {
+  display: block;
+  margin: 0 auto 10px;
+}
+.wid69 {
+  width: 100%;
+  margin-left: 0;
+  display: block;
+}
+.wid69 p:first-child {
+  text-align: center;
+}
+.one_vopr {
+  margin-bottom: 10px;
+}
+.mame_men {
+  margin-left: 60px;
+  text-shadow: 0 0 3px #fff;
+}
+.block_15 p {
+  font: 24px Roboto_Bold;
+  margin-bottom: 15px;
+}
+.submit_block_12 {
+  margin-top: 20px;
+}
+.block_15 {
+  padding: 20px 0;
+}
+.bg_fff {
+  margin-left: -375px;
+  padding: 30px 10px;
+}
+.bg_fff {
+  margin-left: auto;
+  padding: 30px 10px;
+  position: initial;
+  left: initial;
+  text-align: center;
+}
+.disp_inl {
+  margin-bottom: 30px;
+}
+.block_16 {
+  padding: 15px 0;
+}
+.one_otz a span {
+  left: 95px;
+  margin-left: 0;
+  top: -65px;
+}
+}
+
+@media (max-width:768px){
+header {
+  padding: 15px 0;
+}
+
+.contact_top {
+  display: block;
+  margin-left: 0;
+}
+.a_phone {
+  font-size: 14px;
+}
+.logo {
+  margin-top: 0;
+}
+.menu_jk li {
+  margin-right: 0;
+  display: block;
+  text-align: left;
+}
+.menu_jk {
+  margin: 15px 0;
+  height: 1px;
+  overflow: hidden;
+  -webkit-transition: 500ms;
+	-moz-transition: 500ms;
+  -ms-transition: 500ms;
+	-o-transition: 500ms;
+	transition: 500ms;
+}
+.menu_jk_add {
+  height: 90px;
+  overflow: none;
+}
+.container {
+  padding: 0;
+}
+.block_1 {
+  margin-top: 30px;
+}
+.h1 {
+  font: 26px Roboto_Bold;
+  line-height: 1;
+}
+.medium_30 {
+  font: 18px Roboto_Medium;
+  margin-bottom: 20px;
+}
+.abs {
+  width: 100%;
+}
+.show {
+  width: 100%;
+}
+.disp_inl {
+  max-width: 100%;
+}
+.for_ik {
+  margin: 10px auto 0;
+}
+.form_block_1 {
+  margin-top: 20px;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.form_block_1 p {
+  font: 22px Roboto_Bold;
+  margin-bottom: 15px;
+}
+.form_block_2 * {
+  display: block;
+  margin: 0 auto 10px !important;
+}
+.nameProduct {
+  font: 18px Roboto_Medium;
+}
+.float_r {
+  float: none;
+  margin-left: 10px;
+}
+.proektirovanie {
+  display: none;
+}
+.proizvodstvo {
+  width: 100%;
+  }
+.mt60 {
+  margin-top: 20px;
+}
+.bord_left {
+  border-left: none;
+}
+.one_ysl {
+  margin: 0 0 10px 0;
+}
+.h2 {
+  font: 25px Roboto_Bold;
+}
+.form_block_8, .form_block_9 {
+  max-width: 320px;
+  margin: 30px auto 0;
+}
+.plus_two {
+  padding-left: 30px;
+}
+.one_compani {
+  width: 50%;
+}
+.one_compani img {
+  max-width: 90%;
+}
+.vid_opl li {
+  text-shadow: 2px 2px 0px #fff;
+}
+.box_spis {
+  background-position: center center;
+}
+.submit_block_10 {
+  margin: 35px auto;
+  display: block;
+}
+.block_14 .h2 {
+  text-shadow: 1px 1px 0px #fff;
+}
+.block_14 p {
+  text-shadow: 1px 1px 0px #fff;
+}
+.form_block_14 {
+  padding: 20px 15px 15px;
+  background-color: #fff;
+  margin: 20px auto;
+  display: block;
+}
+.mame_men {
+  margin-left: 0;
+  display: block;
+  text-align: center;
+}
+.block_14 {
+  padding: 30px 0;
+}
+footer > ymaps {
+  height: 300px !important;
+  margin-bottom: 30px;
+}
+footer .h2 {
+  position: initial;
+  margin-left: 0;
+  margin-top: 40px;
+}
+.slider_proizvodstvo .owl-dots {
+    top: 40px;
+	}
+.disp_inl {
+  margin: 0 10px 10px;
+  width: calc(100% - 20px);
+}
+.one_otz {
+    margin-bottom: 35px;
+}
+.block_16 {
+  text-align: center;
+}
+.block_16 p {
+  margin: 10px 0;
+}
+.block_16 a p {
+  text-align: center;
+}
+.one_otz a:hover span {
+  display: none;
+}
+.modal-dialog {
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.modal-dialog * {
+  max-width: 100%;
+}
+.modal input[type="submit"] {
+  font-size: 12px;
+}
+.modal-body p {
+  width: 100%;
+}
+.proektirovanie_proizvodstvo {
+  width: 100%;
+  margin-bottom: 20px;
+ }
+.pp_none .slider_proizvodstvo {
+  z-index: 1;
+  }
+.pp_none .h2 {
+  color: #fff;
+}
+.proektirovanie_proizvodstvo .h2:hover {
+  text-decoration: none;
+}
+.oneSlide p {
+  padding-right: 30px;
+  }
+.none_767 {
+  display: none;
+}
+.block_767 {
+  display: block;
+}
+.navbar-toggle .bar_2 {
+  opacity: 0;
+}
+.navbar-toggle .bar_1 {
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: relative;
+  top: 6px;
+}
+.navbar-toggle .bar_3 {
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  position: relative;
+  top: -6px;
+}
+}
