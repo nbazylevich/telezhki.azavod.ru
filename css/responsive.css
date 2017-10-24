@@ -505,3 +505,6 @@ footer .h2 {
   top: -6px;
 }
 }
+.owl-stage.owl-stage-animation{
+	transition: transform 400ms !important;
+}
